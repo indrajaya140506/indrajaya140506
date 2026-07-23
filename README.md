@@ -10,14 +10,13 @@ I'm passionate about building modern web applications using Laravel, React, and 
 
 ---
 
-## 🚀 About Me
-
-- 🎓 Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha)
-- 🌱 Currently learning Full Stack Development
-- 💻 Love building modern websites
-- 📚 Interested in UI/UX Design
-- 🇮🇩 From Bali, Indonesia
-
+##  About Me
+- 🎂 20 Years Old
+- 🎓 a student majoring in Software Engineering at Undiksha, Bali
+- 📍 From **Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia**
+- 🌱 Currently exploring **Full Stack Development**
+- 💻 Passionate about building modern, responsive, and user-friendly websites
+- 🏐 I enjoy learning new technologies and playing volleyball.
 ---
 
 ##  Tech Stack
