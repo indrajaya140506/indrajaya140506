@@ -10,12 +10,35 @@
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
-- 🎂 20 Years Old
-- 🎓 a student majoring in Software Engineering at Undiksha, Bali
-- 📍 From **Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia**
-- 🌱 Currently exploring **Full Stack Development**
-- 💻 Passionate about building modern, responsive, and user-friendly websites
-- 🏐 I enjoy learning new technologies and playing volleyball.
+
+<table align="center">
+<tr>
+<td width="32%" align="center">
+
+<img src="./profil.png" width="220" style="border-radius:50%;" />
+
+</td>
+
+<td width="68%">
+
+🎂 **Age:** 20 Years Old
+
+🎓 **Education:** Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha), Bali
+
+📍 **Location:** Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia
+
+🌱 **Currently Learning:** Full Stack Development
+
+💻 **Passion:** Building modern, responsive, and user-friendly web applications
+
+🏐 **Hobbies:** Learning new technologies and playing volleyball
+
+🚀 **Goal:** To become a professional Full Stack Web Developer and continuously improve my skills through real-world projects.
+
+</td>
+</tr>
+</table>
+
 ---
 
 ##  Tech Stack
