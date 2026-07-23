@@ -4,11 +4,6 @@
 </p>
 
 <br>
-
-<h3 align="center">
-Software Engineering Student | Full Stack Web Developer
-</h3>
-
 <p align="center">
 I'm passionate about building modern web applications using Laravel, React, and Next.js.
 </p>
