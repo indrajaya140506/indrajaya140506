@@ -7,7 +7,9 @@
 
 ---
 
-##  About Me
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
 - 🎂 20 Years Old
 - 🎓 a student majoring in Software Engineering at Undiksha, Bali
 - 📍 From **Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia**
