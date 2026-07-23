@@ -87,7 +87,7 @@
 ---
 <h2 align="center">My Business</h2>
 <p align="center">
-  <img src="./business-banner.png" width="100%" alt="Business Banner"/>
+  <img src="./usaha.png" width="100%" alt="Business Banner"/>
 </p>
 
 
