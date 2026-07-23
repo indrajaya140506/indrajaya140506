@@ -20,7 +20,7 @@ I'm passionate about building modern web applications using Laravel, React, and 
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
