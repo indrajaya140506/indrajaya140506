@@ -13,31 +13,29 @@
 
 <table align="center">
 <tr>
-<td width="32%" align="center">
 
-<img src="./profil.png" width="220" style="border-radius:50%;" />
+<td width="35%" align="center" valign="top">
+<img src="./profil.png" width="220" alt="Profile Picture"/>
+</td>
+
+<td width="65%" valign="top">
+
+| | |
+|:---|:---|
+| 🎂 **Age** | 20 Years Old |
+| 🎓 **Education** | Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha), Bali |
+| 📍 **Location** | Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia |
+| 🌱 **Learning** | Full Stack Development |
+| 💻 **Passion** | Building modern, responsive, and user-friendly web applications |
+| 🏐 **Hobbies** | Learning new technologies & Playing Volleyball |
+| 🚀 **Goal** | Becoming a Person Who Is Helpful and Useful |
 
 </td>
 
-<td width="68%">
-
-🎂 **Age:** 20 Years Old
-
-🎓 **Education:** Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha), Bali
-
-📍 **Location:** Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia
-
-🌱 **Currently Learning:** Full Stack Development
-
-💻 **Passion:** Building modern, responsive, and user-friendly web applications
-
-🏐 **Hobbies:** Learning new technologies and playing volleyball
-
-🚀 **Goal:** Becoming a Person Who Is Helpful and Useful
-
-</td>
 </tr>
 </table>
+
+---
 
 ---
 
