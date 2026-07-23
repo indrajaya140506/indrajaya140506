@@ -22,11 +22,17 @@
 <td width="68%">
 
 🎂 **Age:** 20 Years Old
+
 🎓 **Education:** Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha), Bali
+
 📍 **Location:** Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia
+
 🌱 **Currently Learning:** Full Stack Development
+
 💻 **Passion:** Building modern, responsive, and user-friendly web applications
+
 🏐 **Hobbies:** Learning new technologies and playing volleyball
+
 🚀 **Goal:** Becoming a Person Who Is Helpful and Useful
 
 </td>
