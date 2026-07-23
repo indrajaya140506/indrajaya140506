@@ -85,24 +85,16 @@
 </p>
 
 ---
+<h2 align="center">💼 My Business</h2>
+<p align="center">
+  <img src="./business-banner.png" width="100%" alt="Business Banner"/>
+</p>
+<p align="center">
+  <strong>🚀 Digital Solutions • Web Development • UI/UX Design</strong><br>
+  Delivering modern, responsive, and user-friendly digital experiences.
+</p>
 
-## 🌟 Featured Projects
-
-🩸 PMI Kabupaten Buleleng
-
-Financial Management Information System using Laravel & Next.js.
-
-🌍 Urban Heat Island Web GIS
-
-Google Earth Engine + Flask + React + Leaflet.
-
-🛒 BangunMart
-
-Responsive E-Commerce Website.
-
-🍔 Self Service Kiosk
-
-Restaurant Self Ordering System.
+---
 
 ---
 
