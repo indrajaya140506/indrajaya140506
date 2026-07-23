@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komang Indrajaya Darmawiguna</h1>
+
 <p align="center">
   <img src="./headergithub.png" alt="headergithub" width="100%">
 </p>
