@@ -3,10 +3,7 @@
   <img src="./Banner.png" alt="headergithub" width="100%">
 </p>
 
-<br>
-<p align="center">
-I'm passionate about building modern web applications using Laravel, React, and Next.js.
-</p>
+
 
 ---
 
