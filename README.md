@@ -9,53 +9,26 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
 
-<td width="35%" align="center" valign="middle">
-
-<p align="center">
-  <img src="./about.jpg" width="240" alt="Profile Picture"/>
-</p>
-
+<td width="35%" align="center" valign="top">
+<img src="./about.jpg" width="220" alt="Profile Picture"/>
 </td>
 
 <td width="65%" valign="top">
 
-<b>🎂 Age</b><br>
-20 Years Old
-
-<br><br>
-
-<b>🎓 Education</b><br>
-Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha), Bali
-
-<br><br>
-
-<b>📍 Location</b><br>
-Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia
-
-<br><br>
-
-<b>🌱 Currently Learning</b><br>
-Full Stack Development
-
-<br><br>
-
-<b>💻 Passion</b><br>
-Building modern, responsive, and user-friendly web applications
-
-<br><br>
-
-<b>🏐 Hobbies</b><br>
-Learning new technologies & Playing Volleyball
-
-<br><br>
-
-<b>🚀 Goal</b><br>
-Becoming a Person Who Is Helpful and Useful
+| | |
+|:---|:---|
+| 🎂 **Age** | 20 Years Old |
+| 🎓 **Education** | Software Engineering Student at Universitas Pendidikan Ganesha (Undiksha), Bali |
+| 📍 **Location** | Muncan Village, Selat District, Karangasem Regency, Bali, Indonesia |
+| 🌱 **Learning** | Full Stack Development |
+| 💻 **Passion** | Building modern, responsive, and user-friendly web applications |
+| 🏐 **Hobbies** | Learning new technologies & Playing Volleyball |
+| 🚀 **Goal** | Becoming a Person Who Is Helpful and Useful |
 
 </td>
 
