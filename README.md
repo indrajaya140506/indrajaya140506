@@ -9,13 +9,13 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center">
 <tr>
 
 <td width="35%" align="center" valign="top">
-<img src="./profil.png" width="220" alt="Profile Picture"/>
+<img src="./about.jpg" width="220" alt="Profile Picture"/>
 </td>
 
 <td width="65%" valign="top">
