@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/LINKEDIN_USERNAME">
+<a href="[https://www.linkedin.com/in/LINKEDIN_USERNAME](https://www.linkedin.com/in/komang-indrajaya-darmawiguna-2b9730329/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM%2FO6rsz4TSCfRfS12e2ajw%3D%3D)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
