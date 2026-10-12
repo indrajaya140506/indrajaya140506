@@ -124,6 +124,9 @@
 </p>
 
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=indrajaya140506&layout=compact" />
+</p>
 
 <p align="center">
 
