@@ -124,9 +124,7 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajaya140506&theme=github-dark" alt="Activity Graph" />
-</p>
+
 <p align="center">
 
 📍 <strong>Karangasem, Bali, Indonesia</strong>
